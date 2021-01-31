@@ -13,7 +13,7 @@
 # 
 #!/usr/bin/env python
 # coding: utf-8
-# Test
+# Testeintrag
 # # Strings
 # 
 # Wir können in Python nicht nur mit Zahlen, sondern auch mit Zeichenketten, sogenannten **Strings**, arbeiten. Darunter kannst du dir jegliche Abfolgen von Zeichen vorstellen, die in Anführungszeichen stehen. Zum Beispiel ist _"Hallo"_ ein String und _"Hallo Welt"_ ebenso, aber auch _"123.2"_ oder _"!Achtung!"_
